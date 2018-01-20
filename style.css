@@ -30,7 +30,10 @@ header {
  
 }
 
-main {
+.print {
+  position: absolute;
+  top: 150px;
+  left: 1050px;
 
 }
 
